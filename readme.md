@@ -1,4 +1,4 @@
-this project Reduce the size from 4gb to 18mb(binary file)
+This project reduce the size of image from 4gb to 18mb (binary file)
 
 ***command run***
 ```
